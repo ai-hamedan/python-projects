@@ -1,2 +1,4 @@
 # python-projects
-This repository contains a collection of Python projects, organized by various levels of difficulty.
+
+Python Projects Repository
+Welcome to the Python Projects Repository! This collection includes projects organized by different levels of difficulty.
